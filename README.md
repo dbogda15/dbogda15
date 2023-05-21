@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello, 🌍!
+### About me:
+- 🌱 I’m a beginner **JAVA developer**
+- 💬 My native language is Russian, my second language is English
+-  ⚡ My hobbies: 💪 🏂 🏃 🏕 ✈
+- 📫 Reach me by [email](mailto:dbogda15@yandex.ru)
 
-<!--
-**dbogda15/dbogda15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and tools
 
-Here are some ideas to get you started:
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge)
+![Intellij](https://img.shields.io/badge/-Intellij-090909?style=for-the-badge&logo=intellijIdea&logoColor=white)
+![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=postgresql)
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
+![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=spring)
+![Hibernate](https://img.shields.io/badge/-Hibernate-090909?style=for-the-badge&logo=hibernate&logoColor=BCAE79)
+![Mockito](https://img.shields.io/badge/-Mockito-090909?style=for-the-badge)
+![Maven](https://img.shields.io/badge/-Maven-090909?style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Follow me
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://instagram.com/_bogdanova__)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/id39250092)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/BogdanovaDiana)
