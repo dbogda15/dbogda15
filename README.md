@@ -17,6 +17,6 @@
 ![Maven](https://img.shields.io/badge/-Maven-090909?style=for-the-badge)
 
 ### Follow me
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://instagram.com/_bogdanova__)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://instagram.com/_bogdanova__?igshid=NTc4MTIwNjQ2YQ==)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/id39250092)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/BogdanovaDiana)
