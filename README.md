@@ -1,6 +1,6 @@
 ### Hello, 🌍!
 ### About me:
-- 🌱 I’m a beginner **JAVA developer**
+- 🌱 I’m a **JAVA developer**
 - 💬 My native language is Russian, my second language is English
 -  ⚡ My hobbies: 💪 🏂 🏃 🏕 ✈
 - 📫 Reach me by [email](mailto:dbogda15@yandex.ru)
